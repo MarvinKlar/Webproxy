@@ -4,7 +4,7 @@ A website based proxy to make blocked websites available, e.g. if you are behind
 
 ## Description
 
-The Webproxy is a simple PHP application which proxies the requested websites content and displays it. It works like a "reverse proxy". It can be used to access websites, which are e.g. blocked by a firewall or similar. The Webproxy doesn't support all websites and also doesn't support anything else then GET request. But it can be used to visit static websites or to read blog posts. Most of the urls in the proxied website are replaced, to be opened by the Webproxy too.
+The Webproxy is a simple PHP application which proxies the requested websites content and displays it. It works like a "reverse proxy". It can be used to access websites, which are e.g. blocked by a firewall or similar. The Webproxy doesn't support all websites and also doesn't support anything else than GET requests. But it can be used to visit static websites or to read blog posts. Most of the urls in the proxied website are replaced, to be opened by the Webproxy too.
 
 ## Usage
 
